@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcela (@mbanegasmd)
 - 👀 I’m a clinical research fellow interested in using R for clinical research purposes. 
 - 💞️ I’m looking to engage and learn from the R community
-- 📫 How to reach me marcebane@gmail.com
+- 📫 How to reach me mbanegas@bidmc.harvard.edu
 
 <!---
 mbanegasmd/mbanegasmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
